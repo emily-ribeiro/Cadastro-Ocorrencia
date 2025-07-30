@@ -457,7 +457,7 @@ def main():
         print("6. Listar Tabelas")
         print("7. Sair")
 
-                choice = input("Opção: ")
+        choice = input("Opção: ")
 
         if choice == '1':
             cpf = input("CPF: ")
